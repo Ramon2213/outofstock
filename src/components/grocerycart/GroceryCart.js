@@ -31,7 +31,7 @@ export default function GroceryCart() {
             </ul>
            
             <ItemList items={produce} onItemClick={addItem} />
-            <h2>Pantry Items</h2>
+
             <ItemList items={pantryItems} onItemClick={addItem} />
         </div>
     );
