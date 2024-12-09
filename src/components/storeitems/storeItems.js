@@ -1,4 +1,41 @@
 export const produce = [
+
+];
+
+export const pantryItems = [
+    "Carrots",
+    "Cucumbers",
+    "Bell peppers",
+    "Avocados",
+    "Spinach",
+    "Kale",
+    "Tomatoes",
+    "Bananas",
+    "Lemons",
+    "Ginger",
+    "Onions",
+    "Potatoes",
+    "Sweet potatoes",
+    "Purple cabbage",
+    "Broccoli",
+    "Mushrooms",
+    "Cilantro",
+    "Chia",
+    "Goji berries",
+    "Peanut butter",
+    "Bread",
+    "Cashews",
+    "Pumpkin seeds",
+    "Peanuts",
+    "Olive oil",
+    "Sesame oil",
+    "Tamari",
+    "Pinto beans",
+    "Black beans",
+    "Coffee",
+    "Rice",
+    "Dates",
+    "Quinoa",
     "Carrots",
     "Cucumbers",
     "Bell peppers",
@@ -16,23 +53,4 @@ export const produce = [
     "Broccoli",
     "Mushrooms",
     "Cilantro"
-];
-
-export const pantryItems = [
-    "Chia",
-    "Goji berries",
-    "Peanut butter",
-    "Bread",
-    "Cashews",
-    "Pumpkin seeds",
-    "Peanuts",
-    "Olive oil",
-    "Sesame oil",
-    "Tamari",
-    "Pinto beans",
-    "Black beans",
-    "Coffee",
-    "Rice",
-    "Dates",
-    "Quinoa"
 ];

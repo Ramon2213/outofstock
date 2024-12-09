@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\src\\components\\grocerycart\\GroceryCart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\grocerycart\\GroceryCart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\src\\components\\storeitems\\storeItems.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\storeitems\\storeItems.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\src\\components\\itemlist\\ItemList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\itemlist\\ItemList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "storeItems.js",
+              "DocumentMoniker": "C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\src\\components\\storeitems\\storeItems.js",
+              "RelativeDocumentMoniker": "src\\components\\storeitems\\storeItems.js",
+              "ToolTip": "C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\src\\components\\storeitems\\storeItems.js",
+              "RelativeToolTip": "src\\components\\storeitems\\storeItems.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T14:19:18.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GroceryCart.js",
+              "DocumentMoniker": "C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\src\\components\\grocerycart\\GroceryCart.js",
+              "RelativeDocumentMoniker": "src\\components\\grocerycart\\GroceryCart.js",
+              "ToolTip": "C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\src\\components\\grocerycart\\GroceryCart.js",
+              "RelativeToolTip": "src\\components\\grocerycart\\GroceryCart.js",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T14:19:01.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemList.js",
+              "DocumentMoniker": "C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\src\\components\\itemlist\\ItemList.js",
+              "RelativeDocumentMoniker": "src\\components\\itemlist\\ItemList.js",
+              "ToolTip": "C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\src\\components\\itemlist\\ItemList.js",
+              "RelativeToolTip": "src\\components\\itemlist\\ItemList.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T14:18:52.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\package.json",
               "RelativeDocumentMoniker": "package.json",
               "ToolTip": "C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\package.json",
               "RelativeToolTip": "package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-09T13:50:43.075Z",
               "EditorCaption": ""

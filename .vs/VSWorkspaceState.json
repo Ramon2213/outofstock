@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\grocerycart",
+    "\\src\\components\\itemlist",
+    "\\src\\components\\storeitems"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\src\\components\\grocerycart\\GroceryCart.js",
   "PreviewInSolutionExplorer": false
 }
