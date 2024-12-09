@@ -38,8 +38,7 @@
               "RelativeToolTip": "src\\components\\storeitems\\storeItems.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-09T14:19:18.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T14:19:18.64Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "src\\components\\grocerycart\\GroceryCart.js",
               "ToolTip": "C:\\Users\\ramon\\Documents\\Mijn React Projecten\\outofstock\\src\\components\\grocerycart\\GroceryCart.js",
               "RelativeToolTip": "src\\components\\grocerycart\\GroceryCart.js",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-12-09T14:19:01.844Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "src\\components\\itemlist\\ItemList.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-09T14:18:52.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T14:18:52.307Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "package.json",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-09T13:50:43.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T13:50:43.075Z"
             }
           ]
         }
